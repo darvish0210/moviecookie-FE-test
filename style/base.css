@@ -63,11 +63,12 @@ header {
 }
 
 header nav {
-    width: 70%;
+    width: 95%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    gap:10px;
 }
 
 header nav ul {
@@ -81,7 +82,7 @@ header nav ul {
 }
 
 .headertitle {
-    width: 140px;
+    width: 200px;
     height: 32px;
     display: flex;
     justify-content: center;
